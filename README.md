@@ -1,4 +1,6 @@
 # Smart Task & Team Management System (TaskHandler)
+# deployed link
+https://task-handler-fawn.vercel.app/login
 
 A full-stack web application designed to help student teams and small startups manage tasks, assign work, track progress, and collaborate efficiently. 
 
@@ -66,4 +68,4 @@ There are two primary accounts provisioned for testing access control, project c
 | **Member** | new | `new@taskhandler.com` | `123456` | Altering task status, commenting on tasks, testing restricted access. |
 
 *Note: You can easily test the Async notifications by having two browsers (e.g. Chrome, Firefox) open simultaneously: logging into the Manager account on one, and a Member on the other. Assigning a task from the Manager instantly triggers a notification to populate in the Member's Navbar!*
-# temp
+
