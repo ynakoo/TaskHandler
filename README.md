@@ -1,6 +1,6 @@
 # Smart Task & Team Management System (TaskHandler)
-# deployed link
-https://task-handler-fawn.vercel.app/login
+
+Deployed link - https://task-handler-fawn.vercel.app/login
 
 A full-stack web application designed to help student teams and small startups manage tasks, assign work, track progress, and collaborate efficiently. 
 
